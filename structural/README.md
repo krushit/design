@@ -1,0 +1,1 @@
+For composing an object, that is, including an object within an object - use structural design pattern

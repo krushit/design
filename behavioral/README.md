@@ -1,0 +1,1 @@
+For communication, not composition, we need to use behavioral design pattern 
